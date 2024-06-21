@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-
+# This is our calculator project
 import tkinter as tk
 
 calculation = ""
